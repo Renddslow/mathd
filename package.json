@@ -1,6 +1,6 @@
 {
   "name": "mathd",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "description": "A small (1.78KB) parser to evaluate infix notation to values (without using eval).",
   "repository": "https://github.com/Renddslow/mathd",
